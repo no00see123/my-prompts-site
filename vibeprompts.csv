@@ -1,0 +1,3 @@
+app,prompt,contributor,techstack
+"翻译助手","请将这段中文翻译成英文",@user1,"AI,NLP"
+"代码生成器","用Python写一个快速排序算法",@user2,"Python,算法"
